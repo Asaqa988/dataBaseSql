@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-19T20:55:22 EET" name="Default suite" finished-at="2024-11-19T20:55:22 EET" duration-ms="391">
+    <groups>
+    </groups>
+    <test started-at="2024-11-19T20:55:22 EET" name="Default test" finished-at="2024-11-19T20:55:22 EET" duration-ms="391">
+      <class name="MyTestcases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:MyTestcases@54dcfa5a]" started-at="2024-11-19T20:55:22 EET" name="mySetup" finished-at="2024-11-19T20:55:22 EET" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="AddDataToMyDataBase()[pri:1, instance:MyTestcases@54dcfa5a]" started-at="2024-11-19T20:55:22 EET" name="AddDataToMyDataBase" finished-at="2024-11-19T20:55:22 EET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDataToMyDataBase -->
+        <test-method signature="Updatedata()[pri:2, instance:MyTestcases@54dcfa5a]" started-at="2024-11-19T20:55:22 EET" name="Updatedata" finished-at="2024-11-19T20:55:22 EET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Updatedata -->
+        <test-method signature="DeleteData()[pri:3, instance:MyTestcases@54dcfa5a]" started-at="2024-11-19T20:55:22 EET" name="DeleteData" finished-at="2024-11-19T20:55:22 EET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteData -->
+        <test-method signature="ReadData()[pri:4, instance:MyTestcases@54dcfa5a]" started-at="2024-11-19T20:55:22 EET" name="ReadData" finished-at="2024-11-19T20:55:22 EET" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+      </class> <!-- MyTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
